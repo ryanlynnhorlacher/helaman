@@ -1,4 +1,3 @@
-
 var likes = document.getElementById('likes')
 var num = 0
 
