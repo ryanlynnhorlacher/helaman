@@ -10,7 +10,6 @@ increaseLikes.addEventListener('click', increase)
 decreaseLikes.addEventListener('click', decrease)
 
 function increase() {
-	console.log('happending')
 	num += 1
 	likes.innerHTML = num
 }
